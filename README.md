@@ -1,5 +1,5 @@
 # Imersao_Dev_Alura  
-Conteúdo produzido durante o Imersão Dev da Alura - #alura #imersãodev  
+Conteúdo produzido durante a Imersão Dev da Alura - #alura #imersãodev  
 
 
 Aula 01 - Conversor de Criptomoedas  
