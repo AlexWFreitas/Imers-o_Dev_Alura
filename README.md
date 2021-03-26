@@ -12,5 +12,5 @@ https://codepen.io/alexwongf/pen/VwPZMVy
 Aula 02 - Calculadora ( Prompt, If / Else, Switch / Case )  
 https://codepen.io/alexwongf/pen/eYgmvRy
 
-Aula 02 - Quiz Pokemon ( Existe um problema na troca de imagens antes do prompt )  
+Aula 02 - Advinhe o nome do pokemon.  
 https://codepen.io/alexwongf/pen/jOyWMaO
