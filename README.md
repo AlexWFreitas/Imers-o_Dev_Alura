@@ -17,5 +17,5 @@ https://codepen.io/alexwongf/pen/jOyWMaO
 Aula 03 - Tente descobrir o número ( Mentalista )  
 https://codepen.io/alexwongf/pen/mdRPpQK
 
-Aula 04-05 - Aluraflix ( Array iterations through Loops )
+Aula 04-05 - Aluraflix ( Array iterations through Loops )  
 https://codepen.io/alexwongf/pen/RwKayoL
