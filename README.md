@@ -15,5 +15,5 @@ https://codepen.io/alexwongf/pen/eYgmvRy
 Aula 02 - Adivinhe o Pokemon  
 https://codepen.io/alexwongf/pen/jOyWMaO
 
-Aula 03 - Tente descobrir o número ( Mentalista )
+Aula 03 - Tente descobrir o número ( Mentalista )  
 https://codepen.io/alexwongf/pen/mdRPpQK
