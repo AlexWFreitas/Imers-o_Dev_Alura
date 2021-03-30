@@ -21,4 +21,4 @@ Aula 04-05 - Aluraflix ( Array iterations through Loops, DOM Object manipulation
 https://codepen.io/alexwongf/pen/RwKayoL
 
 Aula 06 - Groupstage Table from ONE Esports Singapore Major 2021  
-https://codepen.io/alexwongf/pen/YzNpVmv?editors=0011
+https://codepen.io/alexwongf/pen/YzNpVmv
