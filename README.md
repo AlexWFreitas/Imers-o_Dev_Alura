@@ -23,5 +23,5 @@ https://codepen.io/alexwongf/pen/RwKayoL
 Aula 06 - Groupstage Table from ONE Esports Singapore Major 2021  
 https://codepen.io/alexwongf/pen/YzNpVmv
 
-Aula 07-08 - Super Trunfo utilizando Classes e Objetos  ( Projeto Refatorado )    
-https://codepen.io/alexwongf/pen/XWppqZP
+Aula 07-09 - Super Trunfo utilizando Classes, Objetos e Heranças e uma estrutura um pouco mais organizada.  
+https://codepen.io/alexwongf/pen/WNRjmXL
