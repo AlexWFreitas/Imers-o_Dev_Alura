@@ -25,3 +25,6 @@ https://codepen.io/alexwongf/pen/YzNpVmv
 
 Aula 07-09 - Super Trunfo utilizando Classes, Objetos e Heranças e uma estrutura um pouco mais organizada.  
 https://codepen.io/alexwongf/pen/WNRjmXL
+ 
+Aula 10 - Certificado da Imersão Dev  
+https://codepen.io/alexwongf/pen/jOywNmG
